@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.2.2",
+  "latestVersion": "1.0.0",
   "latestVersionCode": "10",
   "url": "https://github.com/javiersantos/AppUpdater/releases",
   "releaseNotes": [
-    "- First evolution",
+    "- KKP",
     "- Second evolution",
     "- Bug fixes"
   ]
